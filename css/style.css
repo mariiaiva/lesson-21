@@ -1,0 +1,20 @@
+body{
+    font-style: italic;
+    background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D1%8B%D0%B9-%D1%84%D0%BE%D0%BD-%D0%B2-%D1%81%D1%82%D0%B8%D0%BB%D0%B5-%D0%BD%D0%B5%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F-picture-image_1230196.jpg);
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    margin: 10px;
+}
+.navbar-brand{
+    margin: 20px;
+}
+.nav-item{
+    font-size: 15px;
+}
+.fire{
+    width: 550px;
+    height: 550px;
+}
