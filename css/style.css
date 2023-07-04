@@ -26,3 +26,9 @@ body{
     width: 550px;
     height: 550px;
 }
+#feature{
+    border-bottom: 1px solid black;
+}
+#feat{
+    border-right: 1px solid black;
+}
